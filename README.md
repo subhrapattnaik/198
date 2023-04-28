@@ -40,14 +40,14 @@ Now out of these 65,535 ports, only the first 1,024 ports are well known ports m
 ————————————————————————
 
 Port No Process Name Description Application
-20/21 FTP File Transfer Protocol Data Transfer
-23 SMTP Simple Mail Transport Protocol Email Routing 
-80 HTTP HyperText Transfer Protocol Used to transfer hypertext such as web pages and share data 
-443 HTTPs HyperText Transfer Protocol Secure Extension of HTTP Protocol, used for secure communication over Protocol 
-53 DNS Domain Name Server Used to establish connection between web servers and web sites 
-22 SSH Secure Shell Enables two computers to communicate 123 NTP Network Time Protocol Used for synchronizing multiple networks 
-23 Telnet Telnet Used for Server-Client Program 
-110 POP3 Post Office Protocol Help you to download message/email from you inbox to Local Computer
+20/21 FTP File Transfer Protocol Data Transfer\
+23 SMTP Simple Mail Transport Protocol Email Routing \
+80 HTTP HyperText Transfer Protocol Used to transfer hypertext such as web pages and share data \
+443 HTTPs HyperText Transfer Protocol Secure Extension of HTTP Protocol, used for secure communication over Protocol \
+53 DNS Domain Name Server Used to establish connection between web servers and web sites \
+22 SSH Secure Shell Enables two computers to communicate 123 NTP Network Time Protocol Used for synchronizing multiple networks \
+23 Telnet Telnet Used for Server-Client Program \
+110 POP3 Post Office Protocol Help you to download message/email from you inbox to Local Computer\
 ——————————————————
 
 ● Open a CMD prompt 
