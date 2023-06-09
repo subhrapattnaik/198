@@ -1,0 +1,12 @@
+Smtp. Simple Mail Transfer Protocol
+
+
+The Simple Mail Transfer Protocol (SMTP) is used to deliver e-mail messages over the Internet. This protocol is used by most e-mail clients to deliver messages to the server, and is also used by servers to forward messages to their final destination.
+------------------------------------------
+http:Hypertext Transfer Protocol
+
+
+As a request-response protocol, HTTP gives users a way to interact with web resources such as HTML files by transmitting hypertext messages between clients and servers. HTTP clients generally use Transmission Control Protocol (TCP) connections to communicate with servers.
+
+---------------------------------------------------
+FTP (File Transfer Protocol) is a standard network protocol used for the transfer of files from one host to another over a TCP-based network, such as the Internet.
